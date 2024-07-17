@@ -27,3 +27,6 @@ Tank model  - https://free3d.com/3d-model/is-7-heavy-tank-26927.html
 Tank texture  - https://www.tapeciarnia.pl/edycja,315632#google_vignette
 
 Asphalt texture - https://pl.pngtree.com/freebackground/asphalt-texture-background_1445681.html
+
+
+You can watch the result - Filmik.mp4
