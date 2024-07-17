@@ -4,6 +4,8 @@ Controls:
 
 Free tank rotation (not part of movement, used for debugging) - J, K, L, I
 
+
+
 Tank Movement:
 
 Tank rotation around its axis (left, right) - Left arrow, Right arrow
@@ -15,6 +17,8 @@ Turret rotation around its axis (left, right) - A, D
 Turret elevation/depression - W, S
 
 Fire - Z
+
+
 
 Imported Objects:
 
